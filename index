@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="referrer" content="origin" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta
+      name="google-site-verification"
+      content="sBw2N8uateIzRr93vmFze5MF_35vMk5F1wG04L5JcJE"
+    />
+    <meta
+      name="google-site-verification"
+      content="PJKdyVFC5jlu_l8Wo_hirJkhs1cmitmn44fgpOc3zFc"
+    />
+
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:title"
+      content="66GAME Download apk title —— Get Lucky Spinner Free"
+    />
+    <meta property="og:description" content="" />
+    <meta property="og:url" content="https://www.66game.game" />
+    <meta property="og:name" content="66GAME" />
+    <meta property="og:site_name" content="66GAME" />
+    <meta
+      property="keyword"
+      content="66game game,66game apk,66game app download,66game casino,66game online gaming,66game india,66game aviator pro,66game dragon tiger,66game teen patti,66game andar bahar,66game slots,66game real cash,66game signup bonus,66game secure gaming,66game mobile app,66game 7up 7down,66game south asia,66game betting,66game cash withdrawal,66game fantasy cricket"
+    />
+    <meta property="og:image" content="./resources/icons.png" />
+    <meta property="og:image:width" content="192" />
+    <meta property="og:image:height" content="192" />
+    <meta property="og:image:type" content="image/png" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@66GAME " />
+    <meta
+      name="twitter:title"
+      content="66GAME Download apk title —— Get Lucky Spinner Free "
+    />
+    <meta name=" twitter:description" content="" />
+
+    <title>66GAME Download apk title —— Get Lucky Spinner Free</title>
+    <link rel="Bookmark" href="./favicon.ico" />
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="./favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="./resources/main.css" />
+  </head>
+
+  <body>
+    <div id="img_container" class="container" onclick="handleButtonClick()">
+      <div id="img_header"></div>
+      <div id="img_carousel" class="carousel"></div>
+    </div>
+  </body>
+  <script src="./resources/main.js"></script>
+</html>
